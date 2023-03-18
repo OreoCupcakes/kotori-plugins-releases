@@ -14,7 +14,7 @@
   "preventHallowedHelper": "false",
   "preventHallowedSepulchre": "false",
   "preventHouseOverlay": "false",
-  "preventKotoriUtils": "true",
+  "preventKotoriUtils": "false",
   "preventMultiIndicators": "false",
   "preventNex": "false",
   "preventNightmare": "false",
