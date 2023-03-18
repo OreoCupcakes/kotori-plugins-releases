@@ -1,8 +1,8 @@
 {
   "gameRevision": "212",
-  "kotoriLoaderVersion": "1.1.0",
+  "kotoriLoaderVersion": "1.1.1",
   "masterPreventLoad": "false",
-  "preventAlchemicalHydra": "true",
+  "preventAlchemicalHydra": "false",
   "preventAlchemicalHydraRLPL": "false",
   "preventCerberusHelper": "false",
   "preventDagannothKings": "false",
