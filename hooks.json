@@ -11,7 +11,7 @@
   "setSelectedSpellItemIDHook": "client.ot",
   "setSelectedSpellItemIDMultiplier": "-280758941",
   "getNpcCompositionOverheadIcon": "hl.bb",
-  "menuEntryIndexFieldHook": "rl1.ok",
+  "menuEntryIndexFieldHook": "rl1.ob",
   "menuEntryIdentifiersArrayFieldHook": "client.ny",
   "menuEntryItemIdsArrayFieldHook": "client.nn",
   "menuEntryOptionsArrayFieldHook": "client.nh",
