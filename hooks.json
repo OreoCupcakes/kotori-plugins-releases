@@ -1,7 +1,7 @@
 {
   "invokeMenuActionHook": "ar.ke",
   "invokeMenuActionHookJunkValue": "-1745540313",
-  "setXandYHook": "ie.hx",
+  "setXandYHook": "ie.oa",
   "setViewportWalkingFieldHook": "ie.bj",
   "checkClickFieldHook": "ie.bx",
   "setSelectedSpellWidgetHook": "jg.ou",
