@@ -6,7 +6,7 @@
   "preventAlchemicalHydraRLPL": "false",
   "preventCerberusHelper": "false",
   "preventDagannothKings": "false",
-  "preventDemonicGorillas": "false",
+  "preventDemonicGorillas": "true",
   "preventEffectTimers": "false",
   "preventGauntletExtended": "false",
   "preventGrotesqueGuardians": "false",
