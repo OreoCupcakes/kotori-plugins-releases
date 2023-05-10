@@ -1,7 +1,7 @@
 {
   "invokeMenuActionHook": "ar.ke",
   "invokeMenuActionHookJunkValue": "-1745540313",
-  "setXandYHook": "ie.oa",
+  "setXandYHook": "ie.bq",
   "setViewportWalkingFieldHook": "ie.bj",
   "checkClickFieldHook": "ie.bx",
   "setSelectedSpellWidgetHook": "jg.ou",
@@ -11,7 +11,7 @@
   "setSelectedSpellItemIDHook": "client.op",
   "setSelectedSpellItemIDMultiplier": "35668549",
   "getNpcCompositionOverheadIcon": "hs.ba",
-  "menuEntryIndexFieldHook": "rl1.ky",
+  "menuEntryIndexFieldHook": "rl1.uk",
   "menuEntryIdentifiersArrayFieldHook": "client.nq",
   "menuEntryItemIdsArrayFieldHook": "client.oi",
   "menuEntryOptionsArrayFieldHook": "client.og",
