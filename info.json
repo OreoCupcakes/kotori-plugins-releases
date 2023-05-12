@@ -7,7 +7,7 @@
   "preventCerberusHelper": "false",
   "preventDagannothKings": "false",
   "preventDemonicGorillas": "false",
-  "preventEffectTimers": "true",
+  "preventEffectTimers": "false",
   "preventGauntletExtended": "false",
   "preventGrotesqueGuardians": "false",
   "preventGwdTickTimers": "false",
