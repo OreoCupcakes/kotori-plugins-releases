@@ -18,7 +18,7 @@
   "menuEntryParam0ArrayFieldHook": "client.nk",
   "menuEntryParam1ArrayFieldHook": "client.ni",
   "menuEntryTargetsArrayFieldHook": "client.ok",
-  "menuEntryTypesArrayFieldHook": "client.nh"
+  "menuEntryTypesArrayFieldHook": "client.nh",
   "getActorAnimationIdFieldHook": "de.ct",
   "getActorAnimationIdMultiplier": "-1372355773"
 }
