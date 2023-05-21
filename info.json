@@ -21,7 +21,7 @@
   "preventReorderPrayers": "false",
   "preventSpecbar": "false",
   "preventTarnsLair": "false",
-  "preventTempleTrekking": "false",
+  "preventTempleTrekking": "true",
   "preventVorkath": "false",
   "preventVorkathRLPL": "false",
   "preventZulrah": "false",
