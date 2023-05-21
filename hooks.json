@@ -10,7 +10,7 @@
   "setSelectedSpellChildIndexMultiplier": "-1204907975",
   "setSelectedSpellItemIDHook": "client.op",
   "setSelectedSpellItemIDMultiplier": "35668549",
-  "getNpcCompositionOverheadIcon": "hs.ap",
+  "getNpcCompositionOverheadIcon": "hs.ba",
   "menuEntryIndexFieldHook": "rl3.ai",
   "menuEntryIdentifiersArrayFieldHook": "client.nq",
   "menuEntryItemIdsArrayFieldHook": "client.oi",
