@@ -1,113 +1,113 @@
 {
-  "h":
+  "hooks":
   [
     {
-      "n": "invokeMenuAction",
-      "c": "kq",
-      "p": "kj",
-      "m": -755698376
+      "name": "invokeMenuAction",
+      "class": "kq",
+      "parameter": "kj",
+      "multiplier": -755698376
     },
     {
-      "n": "setViewportWalking",
-      "c": "iz",
-      "p": "bx",
-      "m": 1
+      "name": "setViewportWalking",
+      "class": "iz",
+      "parameter": "bx",
+      "multiplier": 1
     },
     {
-      "n": "setSelectedSpellWidget",
-      "c": "cm",
-      "p": "oq",
-      "m": -1926356467
+      "name": "setSelectedSpellWidget",
+      "class": "cm",
+      "parameter": "oq",
+      "multiplier": -1926356467
     },
     {
-      "n": "setSelectedSpellChildIndex",
-      "c": "client",
-      "p": "ov",
-      "m": 577729693
+      "name": "setSelectedSpellChildIndex",
+      "class": "client",
+      "parameter": "ov",
+      "multiplier": 577729693
     },
     {
-      "n": "setSelectedSpellItemId",
-      "c": "client",
-      "p": "oh",
-      "m": -1060981963
+      "name": "setSelectedSpellItemId",
+      "class": "client",
+      "parameter": "oh",
+      "multiplier": -1060981963
     },
     {
-      "n": "getNpcOverheadIcon",
-      "c": "hd",
-      "p": "bz",
-      "m": 1
+      "name": "getNpcOverheadIcon",
+      "class": "hd",
+      "parameter": "bz",
+      "multiplier": 1
     },
     {
-      "n": "menuOptionsCount",
-      "c": "client",
-      "p": "ns",
-      "m": -54831947
+      "name": "menuOptionsCount",
+      "class": "client",
+      "parameter": "ns",
+      "multiplier": -54831947
     },
     {
-      "n": "menuIdentifiersArray",
-      "c": "client",
-      "p": "od",
-      "m": 1
+      "name": "menuIdentifiersArray",
+      "class": "client",
+      "parameter": "od",
+      "multiplier": 1
     },
     {
-      "n": "menuItemIdsArray",
-      "c": "client",
-      "p": "oe",
-      "m": 1
+      "name": "menuItemIdsArray",
+      "class": "client",
+      "parameter": "oe",
+      "multiplier": 1
     },
     {
-      "n": "menuOptionsArray",
-      "c": "client",
-      "p": "ow",
-      "m": 1
+      "name": "menuOptionsArray",
+      "class": "client",
+      "parameter": "ow",
+      "multiplier": 1
     },
     {
-      "n": "menuParam0Array",
-      "c": "client",
-      "p": "nh",
-      "m": 1
+      "name": "menuParam0Array",
+      "class": "client",
+      "parameter": "nh",
+      "multiplier": 1
     },
     {
-      "n": "menuParam1Array",
-      "c": "client",
-      "p": "nj",
-      "m": 1
+      "name": "menuParam1Array",
+      "class": "client",
+      "parameter": "nj",
+      "multiplier": 1
     },
     {
-      "n": "menuTargetsArray",
-      "c": "client",
-      "p": "oc",
-      "m": 1
+      "name": "menuTargetsArray",
+      "class": "client",
+      "parameter": "oc",
+      "multiplier": 1
     },
     {
-      "n": "menuTypesArray",
-      "c": "client",
-      "p": "nk",
-      "m": 1
+      "name": "menuTypesArray",
+      "class": "client",
+      "parameter": "nk",
+      "multiplier": 1
     },
     {
-      "n": "setSelectedSceneTileX",
-      "c": "iz",
-      "p": "bn",
-      "m": 1
+      "name": "setSelectedSceneTileX",
+      "class": "iz",
+      "parameter": "bn",
+      "multiplier": 1
     },
     {
-      "n": "setSelectedSceneTileY",
-      "c": "iz",
-      "p": "bb",
-      "m": 1
+      "name": "setSelectedSceneTileY",
+      "class": "iz",
+      "parameter": "bb",
+      "multiplier": 1
     },
     {
-      "n": "isMoving",
-      "c": "di",
-      "p": "de",
-      "m": 1557847499
+      "name": "isMoving",
+      "class": "di",
+      "parameter": "de",
+      "multiplier": 1557847499
     },
     {
-      "n": "getActorAnimationId",
-      "c": "di",
-      "p": "be",
-      "m": -254610587
+      "name": "getActorAnimationId",
+      "class": "di",
+      "parameter": "be",
+      "multiplier": -254610587
     }
   ]
 }
