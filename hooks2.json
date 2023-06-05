@@ -44,43 +44,43 @@
       "m": -54831947
     },
     {
-      "n": "menuEntryIdentifiersArray",
+      "n": "menuIdentifiersArray",
       "c": "client",
       "p": "od",
       "m": 1
     },
     {
-      "n": "menuEntryItemIdsArray",
+      "n": "menuItemIdsArray",
       "c": "client",
       "p": "oe",
       "m": 1
     },
     {
-      "n": "menuEntryOptionsArray",
+      "n": "menuOptionsArray",
       "c": "client",
       "p": "ow",
       "m": 1
     },
     {
-      "n": "menuEntryParam0Array",
+      "n": "menuParam0Array",
       "c": "client",
       "p": "nh",
       "m": 1
     },
     {
-      "n": "menuEntryParam1Array",
+      "n": "menuParam1Array",
       "c": "client",
       "p": "nj",
       "m": 1
     },
     {
-      "n": "menuEntryTargetsArray",
+      "n": "menuTargetsArray",
       "c": "client",
       "p": "oc",
       "m": 1
     },
     {
-      "n": "menuEntryTypesArray",
+      "n": "menuTypesArray",
       "c": "client",
       "p": "nk",
       "m": 1
