@@ -17,19 +17,19 @@
       "n": "setSelectedSpellWidget",
       "c": "bv",
       "p": "oo",
-      "m": 14702475
+      "m": 1422938043
     },
     {
       "n": "setSelectedSpellChildIndex",
       "c": "client",
       "p": "op",
-      "m": 1050396402
+      "m": -505666607
     },
     {
       "n": "setSelectedSpellItemId",
       "c": "client",
       "p": "of",
-      "m": 1014804687
+      "m": 1409051471
     },
     {
       "n": "getNpcOverheadIcon",
