@@ -100,13 +100,13 @@
     {
       "n": "isMoving",
       "c": "dx",
-      "p": "ch",
+      "p": "cg",
       "m": -1181401597
     },
     {
       "n": "getActorAnimationId",
       "c": "dx",
-      "p": "du",
+      "p": "dq",
       "m": 1584912307
     }
   ]
