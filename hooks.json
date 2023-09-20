@@ -14,6 +14,12 @@
       "m": 1
     },
     {
+      "n": "setCheckClick",
+      "c": "jt",
+      "p": "bv",
+      "m": 1
+    },
+    {
       "n": "setSelectedSpellWidget",
       "c": "gv",
       "p": "pl",
