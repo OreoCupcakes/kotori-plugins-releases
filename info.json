@@ -25,5 +25,8 @@
   "preventGwdHelper": "false",
   "preventAoeWarnings": "false",
   "preventFightCaves": "false",
-  "preventInferno": "false"
+  "preventInferno": "false",
+  "preventAlchemicalHelper": "false",
+  "preventDagannothHelper": "false",
+  "preventGauntletHelper": "false"
 }
