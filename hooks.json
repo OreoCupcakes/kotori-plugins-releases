@@ -106,13 +106,13 @@
     {
       "n": "isMoving",
       "c": "di",
-      "p": "db",
+      "p": "bs",
       "m": 609746431
     },
     {
       "n": "getActorAnimationId",
       "c": "di",
-      "p": "cl",
+      "p": "br",
       "m": 1375718357
     }
   ]
